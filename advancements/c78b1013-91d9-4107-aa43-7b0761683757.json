@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-23 15:15:53 +0100"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-03-23 15:15:53 +0100"
+    },
+    "done": false
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2025-03-23 15:15:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2025-03-23 15:15:54 +0100"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/jungle": {
+    "criteria": {
+      "requirement": "2025-03-23 15:16:06 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
